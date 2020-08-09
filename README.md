@@ -1,20 +1,9 @@
-# RecipeApp
-<<<<<<< HEAD
+# Recipe App
 
-A new Flutter project.
+"Recipe App" is a mobile applications that provides a way to track recipes in a simple way. It is made entirely using Flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-iOS app to track recipes made using Flutter
->>>>>>> af99d770e3e24ecacc706d4cd0975f6e1b458b47
+![Home page](/img/home.png)
+![Recipe card](/img/recipe_card.png)
+![Edit page](/img/edit_page.png)
