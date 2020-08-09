@@ -4,6 +4,6 @@
 
 ## Screenshots
 
-![Home page](/img/home.png)
-![Recipe card](/img/recipe_card.png)
-![Edit page](/img/edit_page.png)
+<img src="img/home.png" width="500">
+<img src="img/recipe_card.png" width="500">
+<img src="img/edit_page.png" width="500">
